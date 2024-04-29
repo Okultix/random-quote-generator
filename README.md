@@ -22,7 +22,7 @@ Just add or remove the content from this part of script.js file.
 
 Here is an UPDATED version (it's already uploaded as the new and only code:
 
-![firefox-BK5Kqlrord](https://github.com/Okultix/random-quote-generator/assets/167861136/cf6dd694-5bb2-4399-907d-3fa48206b420)
+[![firefox-BK5Kqlrord](https://github.com/Okultix/random-quote-generator/assets/167861136/cf6dd694-5bb2-4399-907d-3fa48206b420)](https://github.com/Okultix/random-quote-generator/assets/167861136/1a1cac38-b282-431c-b3e6-dffa97ff4329)
 
 Thank you for your attention,
 Ox
