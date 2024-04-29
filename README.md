@@ -1,5 +1,7 @@
 Random Quote Generator
 
+![firefox-BK5Kqlrord](https://github.com/Okultix/random-quote-generator/assets/167861136/cf6dd694-5bb2-4399-907d-3fa48206b420)
+
 Very simple website where you can add your quotes or whatever you want (you can always change these things here):
 
 const quotes = [
@@ -17,4 +19,7 @@ const quotes = [
   ];
 
 Just add or remove the content from this part of script.js file.
+
+Thank you for your attention,
+Ox
   
